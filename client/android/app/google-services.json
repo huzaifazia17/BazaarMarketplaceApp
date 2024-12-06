@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211641199237",
+    "project_id": "finalproject-fdf98",
+    "storage_bucket": "finalproject-fdf98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641199237:android:60d28335344f455afb57ec",
+        "android_client_info": {
+          "package_name": "com.bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641199237-0253gpjnrtke5nhqvi3dilimolo3j5sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1BZIsJI_ryVAi9AyM-w_rkBd9lrEMiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641199237-0253gpjnrtke5nhqvi3dilimolo3j5sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
